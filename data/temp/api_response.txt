@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 51.5333,
+    "lat": 25.2867
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 303.14,
+    "feels_like": 305.57,
+    "temp_min": 303.14,
+    "temp_max": 303.32,
+    "pressure": 1014,
+    "humidity": 58
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.12,
+    "deg": 320
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1699081941,
+  "sys": {
+    "type": 1,
+    "id": 7614,
+    "country": "QA",
+    "sunrise": 1699065787,
+    "sunset": 1699105900
+  },
+  "timezone": 10800,
+  "id": 290030,
+  "name": "Doha",
+  "cod": 200
+}

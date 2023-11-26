@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/DancingScript.ttf",
+      "sha1": "80f13e7575ec59a51b7fdc42bb0b9d7a34439123"
+    },
+    {
+      "path": "assets/fonts/font01.otf",
+      "sha1": "df70caa82449d078758d213c681cef6293343e60"
+    },
+    {
+      "path": "assets/fonts/FREEDOM.ttf",
+      "sha1": "c60318b0ba1f168b8991311a065175e85110d030"
+    },
+    {
+      "path": "assets/fonts/numFont.otf",
+      "sha1": "aff6d469dd4d2089d6664c5d57ef028e582da9de"
+    },
+    {
+      "path": "assets/fonts/Ostrich Sans Heavy.otf",
+      "sha1": "f2808209891b81587f6ce3e9fcf77ffc1bad3efd"
+    },
+    {
+      "path": "assets/fonts/Ostrich-Sans.ttf",
+      "sha1": "efe256fdd63c4486557689c1dbae7c407b319a7e"
+    }
+  ]
+}

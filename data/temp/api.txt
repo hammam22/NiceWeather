@@ -1,0 +1,18 @@
+https://home.openweathermap.org/api_keys
+
+docs: https://openweathermap.org/current
+
+api call ex:
+https://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q=London&appid=e8c4b89351d439eada100debf916bc74
+
+temp should subtract  273.15
+
+screen size :
+720 * 1280
+
+npx react-native-asset
+
+api key:
+3a0da39624207eb8fb868b325e8550be
+e8c4b89351d439eada100debf916bc74
